@@ -1,0 +1,36 @@
+body{
+    background-color: lightcoral;
+}
+
+.subheader{
+    font-family:sans-serif;
+    color: white;
+}
+
+.text{
+    font-size: 36px;
+    background-color: blueviolet;
+    color: red;
+}
+
+.text-info{
+    color: lightgreen;
+}
+
+h5.text{
+    color: aquamarine;
+}
+
+h4.text{
+    color: brown;
+    
+}
+
+.block h6{
+    color: green;
+}
+
+.block h5{
+    background-color: green;
+    color: yellow
+}
